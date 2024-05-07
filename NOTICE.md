@@ -1,4 +1,4 @@
-# Attribution
+# Licensing notices
 
 ## Code
 
