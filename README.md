@@ -1,6 +1,6 @@
 <div align="center">
 
-![](media/icon-legacy.png)
+![](media/icon_legacy.png)
 
 # Swear Jar
 
